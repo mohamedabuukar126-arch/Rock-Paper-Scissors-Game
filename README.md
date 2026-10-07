@@ -11,6 +11,6 @@ A simple Rock Paper Scissors game I built in Python.
 
 - ## How to Run
 
--Make sure Python is installed, then run:
+Make sure Python is installed, then run:
 
--python Game.py
+python Game.py
